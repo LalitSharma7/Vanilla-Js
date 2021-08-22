@@ -1,2 +1,2 @@
 # Vanilla-Js
-Simple projects using JS
+Simple projects using Vanilla JS 
